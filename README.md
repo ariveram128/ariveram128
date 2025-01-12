@@ -2,12 +2,26 @@
 
 ## 🎓 About Me
 
-I am Marvin Rivera Martinez, a Computer Engineering student at the University of Virginia (Expected Graduation: May 2026). I'm passionate about embedded systems design, PCB layout, and hardware-software integration. As a QuestBridge National Scholar and Dean's List recipient, I strive to combine technical excellence with leadership in diverse engineering communities.
+I am Marvin Rivera Martinez, a Computer Engineering student at the University of Virginia (Expected Graduation: May 2026). I specialize in embedded systems design, PCB layout, and hardware-software integration. As a QuestBridge National Scholar and three-time Dean's List recipient (Fall 2022, Spring 2024, Fall 2024), I'm pursuing a Computer Engineering major with a Data Science minor, maintaining a 3.42 GPA.
+
+## 📚 Academic Focus
+- **Major**: B.S. in Computer Engineering
+- **Minor**: Data Science
+- **Key Coursework**: 
+  - Software Development & Engineering
+  - Operating Systems
+  - Computer Architecture
+  - Advanced Embedded Computer Systems
+  - Data Structures & Algorithms
+  - Computer Systems & Organization I/II
+  - Introduction to Cybersecurity
+  - Internet of Things (IoT)
 
 ## 🛠 Technical Skills
 
 ### Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,46 +29,62 @@ I am Marvin Rivera Martinez, a Computer Engineering student at the University of
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Engineering & Development Tools
-- **Version Control**: Git, VS Code
-- **Embedded Systems**: STM32CubeIDE
-- **PCB Design**: KiCad, Multisim, Ultiboard
-- **UI Development**: JavaFX
-- **Documentation**: LaTeX
+### Software Development
+- **IDEs & Version Control**: 
+  - Git for version control
+  - VS Code, IntelliJ IDEA for development
+  - JavaFX for UI development
+- **Database & Backend**: 
+  - SQLite
+  - Database Design
+  - Full-Stack Development
+  - Unit Testing
 
-### Hardware & Security
-- **Hardware Testing**: Oscilloscopes, Function Generators, Signal Analysis
-- **Security Tools**: Wireshark, Nmap, Metasploit
-- **Cryptography & Network Analysis**
+### Hardware & Security Expertise
+- **Embedded Systems**: 
+  - STM32CubeIDE for microcontroller programming
+  - CAN communication protocols
+  - EMI protection and signal integrity
+- **PCB Design**: 
+  - KiCad for schematic capture and layout
+  - Multisim for circuit simulation
+- **Security Tools**:
+  - Network Analysis (Wireshark)
+  - Penetration Testing
+  - Cryptography Implementation
 
 ## 🚀 Featured Projects
 
-### Audio Spectrum Analyzer | Signal Analysis
-- Implemented Sallen-Key filters for precise audio frequency analysis
-- Developed PCB designs and conducted thorough signal testing
-- Tech stack: Analog Circuit Design, Signal Processing
-
 ### UVA Course Review System | Full-Stack Development
-- Built a CRUD application using Java, JavaFX, and SQLite
-- Implemented secure user authentication and real-time search
-- Features: Normalized database schema (2NF), comprehensive error handling
+- Designed secure CRUD application with robust user authentication and security features
+- Implemented normalized database schema with comprehensive data management
+- Built responsive UI with real-time updates using JavaFX
+- Developed automated test suite following software engineering best practices
+- Tech stack: Java, JavaFX, SQLite, Git
 
-## 🌟 Leadership & Community
+### Audio Spectrum Analyzer | Signal Processing
+- Implemented Sallen-Key filters for precise audio frequency analysis
+- Designed and verified PCB layouts with EMI considerations
+- Conducted signal analysis using oscilloscopes and function generators
+- Tech stack: Analog Circuit Design, PCB Design Tools
 
-### Solar Car Team | Hardware Integration
-- Developing PCB designs for telemetry and steering systems
-- Implementing STM32-based steering interface with CAN protocols
-- Focus on EMI protection and signal integrity
+### Solar Car Team Projects | Hardware Integration
+- Leading PCB design for telemetry and steering systems
+- Implementing STM32-based CAN communication protocols
+- Developing EMI protection solutions
+- Focus on signal integrity and hardware reliability
+
+## 🌟 Leadership & Community Impact
 
 ### Society of Hispanic Professional Engineers (SHPE)
 - UVA Representative for 2024 SHPE National Convention
-- Mentor for first-year Computer Engineering students
-- Advocating for Hispanic representation in STEM
+- Mentoring first-year Computer Engineering students
+- Leading Hispanic representation initiatives in STEM
 
-### Engineering Student Council
-- Diversity Committee Member
-- Organizing career panels and networking sessions
-- Managing $1,000+ budget for community initiatives
+### Engineering Student Council | Diversity Committee
+- Managing $1,000+ budget for diversity initiatives
+- Organizing career development events
+- Building inclusive engineering communities at UVA
 
 ## 🌐 Languages
 - English (Fluent)
@@ -67,4 +97,4 @@ I am Marvin Rivera Martinez, a Computer Engineering student at the University of
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrvnlxndrrvr2@gmail.com)
 
 ---
-*"Building the future through hardware and software integration, one project at a time."*
+*"Building tomorrow's technology through hardware-software integration and inclusive innovation."*
