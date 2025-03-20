@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I am Marvin Rivera Martinez, a Computer Engineering student at the University of Virginia (Expected Graduation: May 2026). I specialize in embedded systems design, PCB layout, and hardware-software integration. As a QuestBridge National Scholar and three-time Dean's List recipient (Fall 2022, Spring 2024, Fall 2024), I'm pursuing a Computer Engineering major with a Data Science minor, maintaining a 3.42 GPA.
+I am Marvin Rivera Martinez, a Computer Engineering student at the University of Virginia (Expected Graduation: May 2026). I specialize in embedded systems design, PCB layout, and hardware-software integration. As a QuestBridge National Scholar and three-time Dean's List recipient (Fall 2022, Spring 2024, Fall 2024), I'm pursuing a Computer Engineering major with a Data Science minor.
 
 ## 📚 Academic Focus
 - **Major**: B.S. in Computer Engineering
