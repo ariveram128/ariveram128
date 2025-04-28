@@ -1,19 +1,21 @@
-# Hi there! 👋
+# Hey there! 👋 I'm Marvin!
 
-## 🎓 About Me
+## 🧑‍💻 About Me
 
-I am Marvin Rivera Martinez, a Computer Engineering student at the University of Virginia (Expected Graduation: May 2026). I specialize in embedded systems design, PCB layout, and hardware-software integration. As a QuestBridge National Scholar and three-time Dean's List recipient (Fall 2022, Spring 2024, Fall 2024), I'm pursuing a Computer Engineering major with a Data Science minor.
+I'm a Computer Engineering student at the University of Virginia, on track to graduate in May 2026. I'm really into the world of embedded systems – things like designing circuit boards (PCB layout) and making hardware and software work together smoothly.
+
+I'm also proud to be a QuestBridge National Scholar and have made the Dean's List three times (Fall 2022, Spring 2024, and Fall 2024). At UVA, I'm majoring in Computer Engineering and also diving into the world of data with a Data Science minor.
 
 ## 📚 Academic Focus
 - **Major**: B.S. in Computer Engineering
 - **Minor**: Data Science
-- **Key Coursework**: 
+- **Key Coursework**:
   - Software Development & Engineering
   - Operating Systems
-  - Computer Architecture
-  - Advanced Embedded Computer Systems
+  - **Computer Architecture** (including RISC-V ISA, HDL design, simulation, synthesis, datapath, and control unit design)
+  - **Advanced Embedded Computer Systems**
   - Data Structures & Algorithms
-  - Computer Systems & Organization I/II
+  - **Computer Systems & Organization I/II** 
   - Introduction to Cybersecurity
   - Internet of Things (IoT)
 
@@ -25,27 +27,37 @@ I am Marvin Rivera Martinez, a Computer Engineering student at the University of
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-88C057?style=for-the-badge&logo=verilog&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Software Development
-- **IDEs & Version Control**: 
+- **IDEs & Version Control**:
   - Git for version control
   - VS Code, IntelliJ IDEA for development
   - JavaFX for UI development
-- **Database & Backend**: 
+- **Database & Backend**:
   - SQLite
   - Database Design
   - Full-Stack Development
   - Unit Testing
+- **Simulation & Verification**: 
+  - ModelSim for HDL simulation
+  - RARS for RISC-V simulation & assembly
 
 ### Hardware & Security Expertise
-- **Embedded Systems**: 
+- **Digital Design**:
+  - CPU Architecture (RISC-V)
+  - Datapath and Control Unit Design
+  - Memory-Mapped I/O
+  - UART Protocol
+- **Embedded Systems**:
   - STM32CubeIDE for microcontroller programming
   - CAN communication protocols
   - EMI protection and signal integrity
-- **PCB Design**: 
+- **PCB Design**:
   - KiCad for schematic capture and layout
   - Multisim for circuit simulation
 - **Security Tools**:
@@ -54,6 +66,15 @@ I am Marvin Rivera Martinez, a Computer Engineering student at the University of
   - Cryptography Implementation
 
 ## 🚀 Featured Projects
+
+### RISC-V CPU with Memory-Mapped UART | Computer Architecture
+- Designed and implemented a multi-cycle RISC-V (RV32I) processor core in Verilog.
+- Developed key components including datapath, register file, ALU, control unit, and immediate extension unit.
+- Integrated a custom UART module with memory-mapped registers (data at `0x3000`, status at `0x3004`).
+- Verified the complete system using ModelSim, running a "Hello, world!" assembly program via UART loopback.
+- Utilized RARS for RISC-V assembly development and simulation.
+- **[(Private Repository)](https://github.com/ariveram128/riscv-uart-system.git)** 
+- Tech stack: Verilog, RISC-V Assembly, ModelSim, RARS
 
 ### UVA Course Review System | Full-Stack Development
 - Designed secure CRUD application with robust user authentication and security features
@@ -75,7 +96,6 @@ I am Marvin Rivera Martinez, a Computer Engineering student at the University of
 - Focus on signal integrity and hardware reliability
 
 ## 🌟 Leadership & Community Impact
-
 ### Society of Hispanic Professional Engineers (SHPE)
 - UVA Representative for 2024 SHPE National Convention
 - Mentoring first-year Computer Engineering students
